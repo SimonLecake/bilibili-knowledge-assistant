@@ -1,0 +1,39 @@
+# Publish only the reviewed application and portfolio materials.
+# Local experiments, personal documents and historical outputs stay private.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/requirements.txt
+!/.env.example
+!/settings.py
+!/bilibili_analyzer.py
+!/bilibili_kb.py
+!/retrieval.py
+!/docs/
+!/examples/
+!/tests/
+!/.github/
+
+# Defense in depth for files inside the allowed directories.
+.env
+.env.*
+!.env.example
+*cookie*
+*secret*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+kb_data/
+video_cache/
+*.faiss
+*.npy
+*.mp4
+*.wav
+*.m4a
+*.mp3
+*.docx
+*.log
+.DS_Store
+Thumbs.db
