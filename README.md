@@ -6,6 +6,8 @@
 
 把视频音轨和本地文档转化为可检索、可总结、可复用的个人知识库。
 
+**简体中文** · [English](README.en.md)
+
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![UI](https://img.shields.io/badge/UI-Gradio-F97316)
 ![Search](https://img.shields.io/badge/Search-FAISS-2563EB)
