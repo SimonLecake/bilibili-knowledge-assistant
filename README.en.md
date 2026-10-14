@@ -20,6 +20,27 @@ Transform video audio and local documents into a personal knowledge base for sea
 
 ---
 
+## Recorded demo
+
+**04:05** · Play inline or use the player's fullscreen control.
+
+Start with a video URL, follow download and transcription, inspect the summary and ingestion result, then ask a knowledge-base question and review the answer and sources.
+
+https://github.com/user-attachments/assets/9920a8df-6ac5-4cde-8612-86511bfe3530
+
+**Approximate chapters:** `00:00` URL and content processing · `01:45` Transcript and summary · `02:00` Knowledge-base question · `03:40` Answer and sources
+
+<details>
+<summary>Expand a screenshot from the recording</summary>
+
+![Bilibili Knowledge Assistant — Recorded demo](https://raw.githubusercontent.com/SimonLecake/ai-portfolio/main/assets/demos/bilibili.jpg)
+
+Captured from the author-provided recording. The application interface is in Chinese.
+
+</details>
+
+Processing waits and the answer's evidence limitations are retained. Third-party video content and model-generated text demonstrate the processing workflow; they are not endorsed factual claims or a QA-quality benchmark.
+
 ## Why this project
 
 Saved videos are easy to accumulate and hard to revisit. When you need a particular idea, finding the right moment can mean watching the video again. A summary helps with browsing, but answering a question that spans several videos and notes requires a way to retrieve and combine their content.
